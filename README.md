@@ -29,7 +29,7 @@ Instalasi
 
 1. Unduh atau Kloning Repository
 
-git clone https://github.com/namauser/sshwatcher-pro.git
+git clone https://github.com/Alphablack977/SSHWatcher_Telegram
 cd sshwatcher-pro
 
 2. Jalankan skrip Python langsung
