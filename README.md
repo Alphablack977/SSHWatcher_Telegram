@@ -29,7 +29,7 @@ Instalasi
 
 1. Unduh atau Kloning Repository
 
-git clone https://github.com/Alphablack977/SSHWatcher_Telegram
+git clone https://github.com/HanzRazor/SSHWatcher_Telegram
 
 cd sshwatcher-pro
 
